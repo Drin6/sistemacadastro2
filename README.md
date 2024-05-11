@@ -1,7 +1,13 @@
-# Sistema de cadastro de clientes
-> Status do projeto: Em desenvolvimento
- Para rodar o código do sistema de cadastro de usuários do laboratório de informática da FSA você deve:
-
-```
-npm install react
-```
+# Estrutura de um README
+* Título 
+* Bandeiras (Tipo de licença, linguagem de programação, etc)
+* Índice
+* Descrição do projeto
+* Status do projeto
+* Funcionalidades e demosntração da Aplicação
+* Informações sobre o acesso ao projeto
+* Tecnologias utilizadas
+* Equipe / Contribuidores
+* Desenvolvedor do projeto
+* Licença
+  
